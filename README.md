@@ -14,7 +14,7 @@ Pero fue en 1996 cuando adoptó el nombre PostgreSQL para reflejar la relación 
 2. Base de datos de uso general.
    * PostgreSQL es usado como base de datos transaccional por muchos, desde grandes empresas como startups
 3. Base de datos Geoespacial.
-   * Con la extencion de [PostGis](https://postgis.net/) es posible soportar un sistema de informacion geográfica o GIS, el cual es un entorno para recopilar, gestionar y analizar datos.
+   * Con la extención de [PostGis](https://postgis.net/) es posible soportar un sistema de información geográfica o GIS, el cual es un entorno para recopilar, gestionar y analizar datos.
 ### Soporte de lenguajes.
 PostgreSQL tiene soporte para algunos de los lenguajes de programación mas populares, como:
 * Python.
@@ -27,7 +27,7 @@ PostgreSQL tiene soporte para algunos de los lenguajes de programación mas popu
 * Go.
 * Tcl.
 ### ¿Quien usa PostgreSQL?
-Muchas compañias han desarrollado productos usandolo. Algunas de ellas son Apple, Fujitsu, Red Hat, Cisco, Juniper Network, entre otras.
+Muchas compañías han desarrollado productos usandolo. Algunas de ellas son Apple, Fujitsu, Red Hat, Cisco, Juniper Network, entre otras.
 ## Instalación.
 Para este curso instalaremos 2 cosas PostgreSQL y DataGrip.
 Para la inslación seguiremos el tutorial de [POSTGRESQL TUTORIAL](https://www.postgresqltutorial.com/postgresql-getting-started/install-postgresql/) donde podras encontrar un tutorial de instalacion para tu sistema operativo de elección (Windows, Linux o MacOS).
