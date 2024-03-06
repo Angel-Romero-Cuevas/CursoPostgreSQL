@@ -1,14 +1,16 @@
 # CursoPostgreSQL. :elephant:
 Un repositorio creado para ser usado como apoyo en un curso de Postgresql.
 ## ¿Qué es PostgreSQL?
-PostgreSQL es un sistema de bases de datos relacionales open-source. Esta es una de las bases de datos mas usadas por aplicaciones web, moviles y analiticas.
+PostgreSQL es un sistema de bases de datos relacionales open-source. Esta es una de las bases de datos más usadas por aplicaciones web, móviles y analíticas.
 
 ### Historia.
-El proyecto POSTGRES, dirigido por el Profesor Michel Stonebreaker, fue financiado por la Agencia de Proyectos de Investigación Avanzados de Defensa (DARPA), la Oficina de Investigación del Ejercito (ARO), la Fundacion Nacional de Ciencia (NSF), y ESL, Inc. (Sistemas de laboratorio Electromagneticos) en 1986.
-Pero fue en 1996 cuando adopto el nombre PostgreSQL para reflejar la relación con el nombre POSTGRES y su nueva capacidad de SQL.
+El proyecto POSTGRES, dirigido por el Profesor Michel Stonebreaker, fue financiado por la Agencia de Proyectos de Investigación Avanzados de Defensa (DARPA), la Oficina de Investigación del Ejercito (ARO), la Fundación Nacional de Ciencia (NSF), y ESL, Inc. (Sistemas de laboratorio Electromagneticos) en 1986.
+Pero fue en 1996 cuando adoptó el nombre PostgreSQL para reflejar la relación con el nombre POSTGRES y su nueva capacidad de SQL.
 ### Usos comunes de PostgreSQL.
-1. Base de datos en LAPP.
-   * LAPP significa: **Linux**, **Apache**, **PostgreSQL**, **PHP**. El cual es un stack bastante común.
+1. Base de datos en LAPP, PERN Y PEAN.
+   * LAPP: **Linux**, **Apache**, **PostgreSQL**, **PHP**.
+   * PERN: **PostgreSQL**, **Express**, **React.js**, **Node.js**
+   * PEAN: **PostgreSQL**, **Express**, **Angular**, **Node.js**
 2. Base de datos de uso general.
    * PostgreSQL es usado como base de datos transaccional por muchos, desde grandes empresas como startups
 3. Base de datos Geoespacial.
